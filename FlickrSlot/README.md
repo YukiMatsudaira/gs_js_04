@@ -32,4 +32,20 @@
 
 
 
-  
+# 質問  
+FlickrAPIを使用するとCookieのSameSite属性に関する下記のエラーが、デベロッパーツール上にでます。  
+＝＝＝＝  
+Indicate whether a cookie is intended to be set in a cross-site context by specifying its SameSite attribute  
+Indicate whether to send a cookie in a cross-site request by specifying its SameSite attribute  
+＝＝＝＝  
+調べてみたのですが、はっきりしたことがわからず、対処の方法を知りたいです。  
+似たような現象で下記を見つけたのですが、理解できなかったため。  
+http://developer.mixi.co.jp/news/news_apps/016653.html　　
+
+
+
+# その他  
+APIは海外のものも多く、英語がわかった方が便利だなと感じました。  
+
+
+
